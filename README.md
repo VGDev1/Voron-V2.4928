@@ -16,9 +16,9 @@ Be aware I see my config as WIP and it can and will change any time. I normally 
 * Pi cam
 * Nozzle brush
 
-## Reddit posts
+## My Reddit posts
 
-### See my post for how to get the perfect first layer and bed mesh
+### First layer and Bed Mesh
 https://www.reddit.com/r/VORONDesign/comments/119yp3f/bed_mesh_first_layer/
 
 ## Superslicer profiles
