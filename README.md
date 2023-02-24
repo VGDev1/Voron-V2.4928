@@ -16,11 +16,8 @@ Be aware I see my config as WIP and it can and will change any time. I normally 
 * Pi cam
 * Nozzle brush
 
-## A word of Warning
-Since I have heard people tring to copy my tmc optimization.
-All driver_xxx values used in tmc.cfg are optimized for the physical drivers hocked up in the different slots and the motors I use.
-**Do not copy these driver_xxx values** as there could harm and worst case damage your drivers or motors
+## Superslicer profiles
 
-I make my config public so that people can get ideas what you can do with macros and how to solve different problems. But I do not recommand to copy any macro from here blind without understanding what it does. 
+Mostly copied from Ellis tuning PIF
 
 ## Disclaimer: Usage of this printer config happens at your own risk!
