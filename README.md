@@ -1,4 +1,4 @@
-# klipper and SuperSlicer profiles for Voron V2.4
+# Klipper and SuperSlicer profiles for Voron V2.4
 
 This is the configs of my Voron 2.4 300 mm3 Serial:V2.4928
 
