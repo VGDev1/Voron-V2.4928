@@ -9,7 +9,7 @@ Be aware I see my config as WIP and it can and will change any time. I normally 
 * LDO 300 mm Voron 2.4 kit
 * Klicky 
 * Stealthburner CW2
-* Oseq Safe sheet
+* Oseq Safe Sheet
 * Genuine Gates brand pulleys/idlers in gantry
 * Rapido HF
 * Bondtech CHT 0.4 nozzle
