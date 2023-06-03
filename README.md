@@ -1,4 +1,6 @@
-# Klipper and SuperSlicer profiles for Voron V2.4
+# Klipper and SuperSlicer profiles for Voron V2.4928
+
+![Printer](img.png)
 
 This is the configs of my Voron 2.4 300 mm3 Serial:V2.4928
 
@@ -15,6 +17,8 @@ Be aware I see my config as WIP and it can and will change any time. I normally 
 * Bondtech CHT 0.4 nozzle
 * Pi cam
 * Nozzle brush
+* Bed fan mod
+* GE5C mod using EGLM-05 - IGUBAL 
 
 ## My Reddit posts
 
@@ -23,6 +27,6 @@ https://www.reddit.com/r/VORONDesign/comments/119yp3f/bed_mesh_first_layer/
 
 ## Superslicer profiles
 
-Mostly copied from Ellis tuning PIF
+Derived from Ellis PIF profiles, but tuned for my setup and filaments.
 
 ## Disclaimer: Usage of this printer config happens at your own risk!
