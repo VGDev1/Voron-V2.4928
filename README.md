@@ -18,7 +18,11 @@ Be aware I see my config as WIP and it can and will change any time. I normally 
 * Pi cam
 * Nozzle brush
 * Bed fan mod
-* GE5C mod using EGLM-05 - IGUBAL 
+* GE5C mod using EGLM-05 - IGUBAL
+
+## Bed mesh tips and tricks
+
+[guide](bed_mesh.md)
 
 ## My Reddit posts
 
