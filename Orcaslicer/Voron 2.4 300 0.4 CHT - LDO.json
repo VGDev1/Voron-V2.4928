@@ -35,15 +35,15 @@
     "machine_end_gcode": "PRINT_END",
     "machine_load_filament_time": "0",
     "machine_max_acceleration_e": [
-        "5000",
+        "10000",
         "5000"
     ],
     "machine_max_acceleration_extruding": [
-        "20000",
+        "10000",
         "20000"
     ],
     "machine_max_acceleration_retracting": [
-        "5000",
+        "1500",
         "5000"
     ],
     "machine_max_acceleration_travel": [
@@ -51,15 +51,15 @@
         "9000"
     ],
     "machine_max_acceleration_x": [
-        "20000",
+        "10000",
         "20000"
     ],
     "machine_max_acceleration_y": [
-        "20000",
+        "10000",
         "20000"
     ],
     "machine_max_acceleration_z": [
-        "500",
+        "350",
         "200"
     ],
     "machine_max_jerk_e": [
@@ -67,11 +67,11 @@
         "2.5"
     ],
     "machine_max_jerk_x": [
-        "9",
+        "5",
         "9"
     ],
     "machine_max_jerk_y": [
-        "9",
+        "5",
         "9"
     ],
     "machine_max_jerk_z": [
@@ -79,19 +79,19 @@
         "0.4"
     ],
     "machine_max_speed_e": [
-        "25",
+        "120",
         "25"
     ],
     "machine_max_speed_x": [
-        "500",
+        "450",
         "200"
     ],
     "machine_max_speed_y": [
-        "500",
+        "450",
         "200"
     ],
     "machine_max_speed_z": [
-        "12",
+        "30",
         "12"
     ],
     "machine_min_extruding_rate": [
@@ -111,7 +111,7 @@
     "min_layer_height": [
         "0.08"
     ],
-    "name": "Voron 2.4 300 0.4 nozzle - LDO",
+    "name": "Voron 2.4 300 0.4 CHT - LDO",
     "nozzle_diameter": [
         "0.4"
     ],
@@ -126,9 +126,9 @@
         "300x300",
         "0x300"
     ],
-    "printable_height": "275",
+    "printable_height": "260",
     "printer_model": "Voron 2.4 300",
-    "printer_settings_id": "Voron 2.4 300 0.4 nozzle - LDO",
+    "printer_settings_id": "Voron 2.4 300 0.4 CHT - LDO",
     "printer_technology": "FFF",
     "printer_variant": "0.4",
     "printhost_apikey": "",
@@ -157,7 +157,7 @@
         "0.8"
     ],
     "retraction_minimum_travel": [
-        "1"
+        "2"
     ],
     "retraction_speed": [
         "30"
@@ -180,9 +180,9 @@
         "2"
     ],
     "z_hop": [
-        "0.4"
+        "0.2"
     ],
     "z_hop_types": [
-        "Normal Lift"
+        "Spiral Lift"
     ]
 }
